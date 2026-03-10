@@ -5,5 +5,5 @@ echo "I am learning Devops"
 echo "Adding new line"
 echo "I am from Devops and cloud team"
 echo "My first commit in new branch" 
-echo "This is my 1st commit "
+echo "This is my 1st commit modify"
 
